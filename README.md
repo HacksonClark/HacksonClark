@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a first-year PhD student in the Siebel School of Computing and Data Science at the University of Illinois Urbana-Champaign
+I'm a second-year PhD student in the Siebel School of Computing and Data Science at the University of Illinois Urbana-Champaign
 (UIUC). I am "watched" by my advisor <a href="https://tianyin.github.io/">Tianyin Xu</a>.
 <br />
 <br />
