@@ -5,7 +5,9 @@ I'm a second-year PhD student in the Siebel School of Computing and Data Science
 My research explores practical AI and agent techniques for
 safety-critical computer systems and infrastructures. 
 My current work is in the AIOps space, specifically in AI for Site Reliability Engineering (SRE).
-I'm currently collaborating with Microsoft Research and IBM Research to build LLM benchmarks and agents for SRE (<a href="https://microsoft.github.io/AIOpsLab/">AIOpsLab</a>, <a href="https://arxiv.org/abs/2502.05352">IT-Bench</a>).
+Previously, I collaborated with Microsoft Research and IBM Research to build LLM benchmarks (AIOpsLab, ITBench) and agents (STRATUS) for SRE.
+
+I'm currently building [SREGym](https://github.com/SREGym/SREGym) to unify my prior benchmarking work. 
 <br />
 <br />
 In the past, I worked at NASA in the Space Technology Mission Directorate, where
